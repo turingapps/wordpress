@@ -1,4 +1,1 @@
-wordpress
-=========
-
 Turingapps wordpress plugins
